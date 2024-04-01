@@ -1,4 +1,4 @@
 pillow
 scipy
-tensorflow>=2,<3
+tensorflow==2.12
 tqdm>=4.41.0,<5
